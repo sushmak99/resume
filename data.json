@@ -1,5 +1,22 @@
 {
   "career":{
     "info":"To become successful"
-  }
+  },
+  "education":[
+   {
+      "degree": "SSC",
+      "school":"Margadarsi School",
+      "data":["2013","97%"]
+    },
+   {
+     "degree":"INTERMEDIATE",
+     "school":"Mangal Junior College",
+     "data":["2015","94%"]
+    },
+    {
+      "degree":"GRADUATION",
+      "school":"Sree Vidyanikethan Engineering College",
+      "data":["2019","75%"]
+    }
+  ]
 }
